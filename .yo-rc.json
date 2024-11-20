@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "mergerTestapp",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1732089115043,
+    "databaseType": "sql",
+    "devServerPort": 9060,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "ZDU1NTQwZjE1MjE1NDc3ODk3N2I0ZmI5NTUzNzQxNDFmMjA5ZTVkOGI3NjNiNTZkMDU0NzVlMGEwZjNmNTIyNTE2NDllYTEzZDhlOWY3NTA3MGU0MDc0OTQ4NGQ1MjQ2Yjg0YzlmN2U1ZmUzNGUwODcwMWNjNTM1NTU1Mzc3MjE=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "testFrameworks": ["cypress"],
+    "websocket": null
+  }
+}
